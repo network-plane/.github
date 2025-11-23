@@ -13,11 +13,11 @@ Small, focused networking tools and shared TUI libraries, all in Go. Each servic
   https://github.com/network-plane/mdnsplane
 - **dhcpdoc** — DHCP server debugging tool.  
   https://github.com/network-plane/dhcpdoc
-- **whichdns** - Identify DNS Server used by the OS.
+- **whichdns** - Identify DNS Server used by the OS.  
   https://github.com/network-plane/whichdns
-- **headview** - Measure http head time
+- **headview** - Measure http head time  
   https://github.com/earentir/headview
-- **ntpcl** - Time Client (NTP, Windows Time, HTTP, daytime, time)
+- **ntpcl** - Time Client (NTP, Windows Time, HTTP, daytime, time)  
   https://github.com/earentir/ntpcl
   
 
