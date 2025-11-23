@@ -13,6 +13,8 @@ Small, focused networking tools and shared TUI libraries, all in Go. Each servic
   https://github.com/network-plane/mdnsplane
 - **dhcpdoc** — DHCP server debugging tool.  
   https://github.com/network-plane/dhcpdoc
+- **whichdns** - Identify DNS Server used by the OS.
+  https://github.com/network-plane/whichdns
 
 ### Shared libraries
 - **planetui** — Composable TUI framework used across Network Plane tools (structured commands, middleware, async tasks, output channels).  
