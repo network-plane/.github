@@ -19,6 +19,8 @@ Small, focused networking tools and shared TUI libraries, all in Go. Each servic
   https://github.com/earentir/headview
 - **ntpcl** - Time Client (NTP, Windows Time, HTTP, daytime, time)  
   https://github.com/earentir/ntpcl
+- **shareplane** - Share files over a fast custom web server
+  https://github.com/network-plane/shareplane
   
 
 ### Shared libraries
