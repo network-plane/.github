@@ -16,9 +16,9 @@ Small, focused networking tools and shared TUI libraries, all in Go. Each servic
 - **whichdns** - Identify DNS Server used by the OS.  
   https://github.com/network-plane/whichdns
 - **headview** - Measure http head time  
-  https://github.com/earentir/headview
+  https://github.com/network-plane/headview
 - **ntpcl** - Time Client (NTP, Windows Time, HTTP, daytime, time)  
-  https://github.com/earentir/ntpcl
+  https://github.com/network-plane/ntpcl
 - **shareplane** - Share files over a fast custom web server  
   https://github.com/network-plane/shareplane
   
