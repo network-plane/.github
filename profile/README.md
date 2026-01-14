@@ -42,8 +42,11 @@ Small, focused networking tools and shared TUI libraries, all in Go. Each servic
   - Monitoring console components used by the platform tools.  
   https://github.com/network-plane/planeconsole
 - **planeoui**
-  - Text Score package to rank text similarity  
+  - Package to manage the download/search/identification of manufacturers based on their OUI (l,m,s supported)
   https://github.com/network-plane/planeoui
+- **textscore**
+  - Text Score package to rank text similarity  
+  https://github.com/network-plane/textscore
 
 ## Design principles
 - **One UX everywhere**: common console and command patterns across all tools.
