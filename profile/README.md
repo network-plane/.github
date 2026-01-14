@@ -47,7 +47,7 @@ Small, focused networking tools and shared TUI libraries, all in Go. Each servic
 
 ## Design principles
 - **One UX everywhere**: common console and command patterns across all tools.
-- **Single-binary deploys**: Go 1.21+ builds, no external runtime deps.
+- **Single-binary deploys**: Go 1.25.5 builds, no external runtime deps.
 - **Readable configs**: strict JSON with validation and clear errors.
 - **Operational clarity**: explicit logs, PID files, graceful shutdown, and CLIs for inspection.
 
