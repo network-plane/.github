@@ -5,32 +5,44 @@ Small, focused networking tools and shared TUI libraries, all in Go. Each servic
 ## Projects
 
 ### Core daemons
-- **dhcplane** — DHCPv4 server with JSON config, pools, reservations, sticky leases, live reload, CLI for leases/stats.  
+- **dhcplane**
+  - DHCPv4 server with JSON config, pools, reservations, sticky leases, live reload, CLI for leases/stats.  
   https://github.com/network-plane/dhcplane
-- **dnsplane** — DNS resolver for labs/home. Queries multiple upstreams, prefers authoritative replies, exposes local control via UNIX socket and remote TUI over TCP.  
+- **dnsplane**
+  - DNS resolver for labs/home. Queries multiple upstreams, prefers authoritative replies, exposes local control via UNIX socket and remote TUI over TCP.  
   https://github.com/network-plane/dnsplane
-- **mdnsplane** — mDNS server / proxy / shadow-proxy.  
+- **mdnsplane**
+  - mDNS server / proxy / shadow-proxy.  
   https://github.com/network-plane/mdnsplane
-- **dhcpdoc** — DHCP server debugging tool.  
+- **dhcpdoc**
+  - DHCP server debugging tool.  
   https://github.com/network-plane/dhcpdoc
-- **whichdns** - Identify DNS Server used by the OS.  
+- **whichdns**
+  - Identify DNS Server used by the OS.  
   https://github.com/network-plane/whichdns
-- **headview** - Measure http head time  
+- **headview**
+  - Measure http head time  
   https://github.com/network-plane/headview
-- **ntpcl** - Time Client (NTP, Windows Time, HTTP, daytime, time)  
+- **ntpcl**
+  - Time Client (NTP, Windows Time, HTTP, daytime, time)  
   https://github.com/network-plane/ntpcl
-- **shareplane** - Share files over a fast custom web server  
+- **shareplane**
+  - Share files over a fast custom web server  
   https://github.com/network-plane/shareplane
-- **speedplane** - Run speedtest.net tests on schedule  
+- **speedplane**
+  - Run speedtest.net tests on schedule  
   https://github.com/network-plane/speedplane
   
 
 ### Shared libraries
-- **planetui** — Composable TUI framework used across Network Plane tools (structured commands, middleware, async tasks, output channels).  
+- **planetui**
+  - Composable TUI framework used across Network Plane tools (structured commands, middleware, async tasks, output channels).  
   https://github.com/network-plane/planetui
-- **planeconsole** — Monitoring console components used by the platform tools.  
+- **planeconsole**
+  - Monitoring console components used by the platform tools.  
   https://github.com/network-plane/planeconsole
-- **planeoui** — Text Score package to rank text similarity  
+- **planeoui**
+  - Text Score package to rank text similarity  
   https://github.com/network-plane/planeoui
 
 ## Design principles
