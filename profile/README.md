@@ -30,7 +30,7 @@ Small, focused networking tools and shared TUI libraries, all in Go. Each servic
   https://github.com/network-plane/planetui
 - **planeconsole** — Monitoring console components used by the platform tools.  
   https://github.com/network-plane/planeconsole
-- **planeoui** — Text Score package to rank text similarity
+- **planeoui** — Text Score package to rank text similarity  
   https://github.com/network-plane/planeoui
 
 ## Design principles
